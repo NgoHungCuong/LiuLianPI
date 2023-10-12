@@ -1,0 +1,1984 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+                              ./_drivers_/src/f1c100s_clock.o (__aeabi_uidiv)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+                              ./_lib_/src/printf.o (__aeabi_idiv)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+                              ./_lib_/src/printf.o (__aeabi_dsub)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+                              ./_lib_/src/printf.o (__aeabi_dmul)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                              ./_lib_/src/printf.o (__aeabi_dcmpeq)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+                              ./_lib_/src/printf.o (__aeabi_d2iz)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+                              ./_lib_/src/printf.o (__aeabi_d2uiz)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+                              ./_lib_/src/printf.o (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o) (__clzsi2)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+                              ./_drivers_/src/f1c100s_de.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+                              ./_drivers_/src/f1c100s_intc.o (memset)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+                              ./src/exception.o (printf)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+                              ./_lib_/src/syscalls.o (errno)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+                              ./_lib_/src/syscalls.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o) (__sinit)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o) (_fwalk)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o) (__sread)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o) (_write_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o) (_close_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o) (_fflush_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o) (memmove)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o) (_read_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+LCD_FB              0x258000          ./src/lcd.o
+errno               0x4               c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+Font                0x4               ./src/lcd.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/display.o
+ .data          0x00000000        0x0 ./src/display.o
+ .bss           0x00000000        0x0 ./src/display.o
+ .text.display_set_bl
+                0x00000000        0xc ./src/display.o
+ .text          0x00000000        0x0 ./src/exception.o
+ .data          0x00000000        0x0 ./src/exception.o
+ .bss           0x00000000        0x0 ./src/exception.o
+ .text          0x00000000        0x0 ./src/lcd.o
+ .data          0x00000000        0x0 ./src/lcd.o
+ .bss           0x00000000        0x0 ./src/lcd.o
+ .text.LCD_SetPixel
+                0x00000000       0x14 ./src/lcd.o
+ .text.LCD_putchar
+                0x00000000      0x170 ./src/lcd.o
+ .text.LCD_print
+                0x00000000       0x1c ./src/lcd.o
+ .text.LCD_out  0x00000000        0x4 ./src/lcd.o
+ .text.LCD_SetTextColor
+                0x00000000       0x10 ./src/lcd.o
+ .text.LCD_SetBGColor
+                0x00000000       0x10 ./src/lcd.o
+ .text.LCD_SetTextPos
+                0x00000000       0x28 ./src/lcd.o
+ .text.LCD_SetFont
+                0x00000000       0x10 ./src/lcd.o
+ .bss.Text_X    0x00000000        0x2 ./src/lcd.o
+ .bss.Text_X_start
+                0x00000000        0x2 ./src/lcd.o
+ .bss.Text_Y    0x00000000        0x2 ./src/lcd.o
+ .text          0x00000000        0x0 ./src/lcd_font.o
+ .data          0x00000000        0x0 ./src/lcd_font.o
+ .bss           0x00000000        0x0 ./src/lcd_font.o
+ .rodata.clock_digits
+                0x00000000        0x8 ./src/lcd_font.o
+ .rodata.clock_digits_data
+                0x00000000      0x8ca ./src/lcd_font.o
+ .rodata.clock_dots
+                0x00000000        0x8 ./src/lcd_font.o
+ .rodata.clock_dots_data
+                0x00000000       0x78 ./src/lcd_font.o
+ .rodata.t_16x22_digits
+                0x00000000        0x8 ./src/lcd_font.o
+ .rodata.t_16x22_digits_data
+                0x00000000      0x2ec ./src/lcd_font.o
+ .text          0x00000000        0x0 ./src/lcd_image.o
+ .data          0x00000000        0x0 ./src/lcd_image.o
+ .bss           0x00000000        0x0 ./src/lcd_image.o
+ .debug_info    0x00000000       0xcd ./src/lcd_image.o
+ .debug_abbrev  0x00000000       0x70 ./src/lcd_image.o
+ .debug_aranges
+                0x00000000       0x18 ./src/lcd_image.o
+ .debug_line    0x00000000       0xba ./src/lcd_image.o
+ .debug_str     0x00000000      0x1e8 ./src/lcd_image.o
+ .comment       0x00000000       0x7f ./src/lcd_image.o
+ .ARM.attributes
+                0x00000000       0x32 ./src/lcd_image.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./src/spi_flash.o
+ .data          0x00000000        0x0 ./src/spi_flash.o
+ .bss           0x00000000        0x0 ./src/spi_flash.o
+ .text.spi_transfer
+                0x00000000       0xe0 ./src/spi_flash.o
+ .text.spi_select
+                0x00000000       0x18 ./src/spi_flash.o
+ .text.spi_deselect
+                0x00000000       0x1c ./src/spi_flash.o
+ .text.sys_spi_flash_read
+                0x00000000       0x60 ./src/spi_flash.o
+ .text.spi_flash_init
+                0x00000000       0xe4 ./src/spi_flash.o
+ .text.spi_flash_read_id
+                0x00000000       0x58 ./src/spi_flash.o
+ .text.spi_flash_erase_full
+                0x00000000       0x98 ./src/spi_flash.o
+ .text.spi_flash_write_enable
+                0x00000000       0x2c ./src/spi_flash.o
+ .text.spi_flash_wait_ready
+                0x00000000       0x50 ./src/spi_flash.o
+ .text.spi_flash_erase_sector
+                0x00000000       0x4c ./src/spi_flash.o
+ .text.spi_flash_read
+                0x00000000       0x5c ./src/spi_flash.o
+ .text.spi_flash_write
+                0x00000000       0x64 ./src/spi_flash.o
+ .text.spi_flash_write_sector
+                0x00000000       0x44 ./src/spi_flash.o
+ .text.spi_write
+                0x00000000       0x1c ./src/spi_flash.o
+ .debug_info    0x00000000     0x14d3 ./src/spi_flash.o
+ .debug_abbrev  0x00000000      0x414 ./src/spi_flash.o
+ .debug_loc     0x00000000      0x42f ./src/spi_flash.o
+ .debug_aranges
+                0x00000000       0x88 ./src/spi_flash.o
+ .debug_ranges  0x00000000       0xa8 ./src/spi_flash.o
+ .debug_line    0x00000000      0x344 ./src/spi_flash.o
+ .debug_str     0x00000000      0xbce ./src/spi_flash.o
+ .comment       0x00000000       0x7f ./src/spi_flash.o
+ .debug_frame   0x00000000      0x184 ./src/spi_flash.o
+ .ARM.attributes
+                0x00000000       0x32 ./src/spi_flash.o
+ .text          0x00000000        0x0 ./src/system.o
+ .data          0x00000000        0x0 ./src/system.o
+ .bss           0x00000000        0x0 ./src/system.o
+ .text          0x00000000        0x0 ./_lib_/src/printf.o
+ .data          0x00000000        0x0 ./_lib_/src/printf.o
+ .bss           0x00000000        0x0 ./_lib_/src/printf.o
+ .text._out_buffer
+                0x00000000        0xc ./_lib_/src/printf.o
+ .text._out_null
+                0x00000000        0x4 ./_lib_/src/printf.o
+ .text._out_fct
+                0x00000000       0x14 ./_lib_/src/printf.o
+ .text._out_rev
+                0x00000000       0xd4 ./_lib_/src/printf.o
+ .text._ntoa_format
+                0x00000000      0x1a0 ./_lib_/src/printf.o
+ .text._ntoa_long
+                0x00000000       0xe8 ./_lib_/src/printf.o
+ .text._ntoa_long_long
+                0x00000000      0x104 ./_lib_/src/printf.o
+ .text._out_char
+                0x00000000        0xc ./_lib_/src/printf.o
+ .text._ftoa    0x00000000      0x480 ./_lib_/src/printf.o
+ .text._etoa    0x00000000      0x5a4 ./_lib_/src/printf.o
+ .text._vsnprintf
+                0x00000000      0x788 ./_lib_/src/printf.o
+ .text.printf_  0x00000000       0x3c ./_lib_/src/printf.o
+ .text.sprintf_
+                0x00000000       0x3c ./_lib_/src/printf.o
+ .text.snprintf_
+                0x00000000       0x3c ./_lib_/src/printf.o
+ .text.vprintf_
+                0x00000000       0x28 ./_lib_/src/printf.o
+ .text.vsnprintf_
+                0x00000000       0x28 ./_lib_/src/printf.o
+ .text.fctprintf
+                0x00000000       0x40 ./_lib_/src/printf.o
+ .rodata._ftoa.str1.1
+                0x00000000       0x12 ./_lib_/src/printf.o
+ .rodata.pow10.3825
+                0x00000000       0x50 ./_lib_/src/printf.o
+ .debug_info    0x00000000     0x14f9 ./_lib_/src/printf.o
+ .debug_abbrev  0x00000000      0x3be ./_lib_/src/printf.o
+ .debug_loc     0x00000000     0x18dc ./_lib_/src/printf.o
+ .debug_aranges
+                0x00000000       0xa0 ./_lib_/src/printf.o
+ .debug_ranges  0x00000000      0x1a8 ./_lib_/src/printf.o
+ .debug_line    0x00000000      0x53b ./_lib_/src/printf.o
+ .debug_str     0x00000000      0x3b1 ./_lib_/src/printf.o
+ .comment       0x00000000       0x7f ./_lib_/src/printf.o
+ .debug_frame   0x00000000      0x288 ./_lib_/src/printf.o
+ .ARM.attributes
+                0x00000000       0x32 ./_lib_/src/printf.o
+ .text          0x00000000        0x0 ./_lib_/src/syscalls.o
+ .data          0x00000000        0x0 ./_lib_/src/syscalls.o
+ .bss           0x00000000        0x0 ./_lib_/src/syscalls.o
+ .text._getpid  0x00000000        0x8 ./_lib_/src/syscalls.o
+ .text._kill    0x00000000       0x18 ./_lib_/src/syscalls.o
+ .text._exit    0x00000000       0x14 ./_lib_/src/syscalls.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_clock.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_clock.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_clock.o
+ .text.clk_pll_disable
+                0x00000000       0x18 ./_drivers_/src/f1c100s_clock.o
+ .text.clk_hclk_get_freq
+                0x00000000       0x28 ./_drivers_/src/f1c100s_clock.o
+ .text.clk_tve_config
+                0x00000000       0x24 ./_drivers_/src/f1c100s_clock.o
+ .text.clk_tvd_config
+                0x00000000       0x20 ./_drivers_/src/f1c100s_clock.o
+ .text.clk_sdc_config
+                0x00000000       0xf4 ./_drivers_/src/f1c100s_clock.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_de.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_de.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_de.o
+ .text.debe_layer_disable
+                0x00000000       0x20 ./_drivers_/src/f1c100s_de.o
+ .text.debe_layer_set_pos
+                0x00000000       0x2c ./_drivers_/src/f1c100s_de.o
+ .text.debe_layer_set_size
+                0x00000000       0x4c ./_drivers_/src/f1c100s_de.o
+ .text.debe_layer_set_alpha
+                0x00000000       0x40 ./_drivers_/src/f1c100s_de.o
+ .text.debe_write_palette
+                0x00000000       0x14 ./_drivers_/src/f1c100s_de.o
+ .text.de_tv_init
+                0x00000000      0x230 ./_drivers_/src/f1c100s_de.o
+ .text.de_diable
+                0x00000000       0x44 ./_drivers_/src/f1c100s_de.o
+ .text.defe_init_spl_422
+                0x00000000      0x134 ./_drivers_/src/f1c100s_de.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_gpio.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_gpio.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_read
+                0x00000000        0x8 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_pin_get
+                0x00000000       0x10 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_write
+                0x00000000        0x8 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_set
+                0x00000000       0x10 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_clear
+                0x00000000       0x10 ./_drivers_/src/f1c100s_gpio.o
+ .text.gpio_pin_toggle
+                0x00000000       0x14 ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_pin_init
+                0x00000000       0x4c ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_pin_enable
+                0x00000000        0x4 ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_pin_disable
+                0x00000000        0x4 ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_debounce_config
+                0x00000000        0xc ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_get_status
+                0x00000000        0x8 ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_pin_get_status
+                0x00000000       0x10 ./_drivers_/src/f1c100s_gpio.o
+ .text.eint_pin_clear_status
+                0x00000000       0x14 ./_drivers_/src/f1c100s_gpio.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_intc.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_intc.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_intc.o
+ .text.intc_enable_irq
+                0x00000000       0x30 ./_drivers_/src/f1c100s_intc.o
+ .text.intc_set_priority
+                0x00000000       0x30 ./_drivers_/src/f1c100s_intc.o
+ .text.intc_set_irq_handler
+                0x00000000       0x10 ./_drivers_/src/f1c100s_intc.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_pwm.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_pwm.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_pwm.o
+ .text.pwm_pulse_start
+                0x00000000       0x2c ./_drivers_/src/f1c100s_pwm.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_sdc.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_sdc.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_transfer_command
+                0x00000000      0x178 ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_update_clock
+                0x00000000       0x4c ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_reset
+                0x00000000        0xc ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_set_bus_width
+                0x00000000       0x44 ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_set_clock
+                0x00000000       0x58 ./_drivers_/src/f1c100s_sdc.o
+ .text.sdc_transfer
+                0x00000000      0x1e0 ./_drivers_/src/f1c100s_sdc.o
+ .debug_info    0x00000000      0x99b ./_drivers_/src/f1c100s_sdc.o
+ .debug_abbrev  0x00000000      0x281 ./_drivers_/src/f1c100s_sdc.o
+ .debug_loc     0x00000000      0x775 ./_drivers_/src/f1c100s_sdc.o
+ .debug_aranges
+                0x00000000       0x48 ./_drivers_/src/f1c100s_sdc.o
+ .debug_ranges  0x00000000       0xb0 ./_drivers_/src/f1c100s_sdc.o
+ .debug_line    0x00000000      0x25c ./_drivers_/src/f1c100s_sdc.o
+ .debug_str     0x00000000      0xbb8 ./_drivers_/src/f1c100s_sdc.o
+ .comment       0x00000000       0x7f ./_drivers_/src/f1c100s_sdc.o
+ .debug_frame   0x00000000       0xa4 ./_drivers_/src/f1c100s_sdc.o
+ .ARM.attributes
+                0x00000000       0x32 ./_drivers_/src/f1c100s_sdc.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_timer.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_timer.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_timer.o
+ .text.tim_get_cnt
+                0x00000000       0x14 ./_drivers_/src/f1c100s_timer.o
+ .text.tim_stop
+                0x00000000       0x20 ./_drivers_/src/f1c100s_timer.o
+ .text.tim_reload
+                0x00000000       0x20 ./_drivers_/src/f1c100s_timer.o
+ .text.tim_int_enable
+                0x00000000       0x1c ./_drivers_/src/f1c100s_timer.o
+ .text.tim_int_disable
+                0x00000000       0x1c ./_drivers_/src/f1c100s_timer.o
+ .text.wdg_init
+                0x00000000       0x28 ./_drivers_/src/f1c100s_timer.o
+ .text.wdg_disable
+                0x00000000       0x24 ./_drivers_/src/f1c100s_timer.o
+ .text.wdg_feed
+                0x00000000       0x18 ./_drivers_/src/f1c100s_timer.o
+ .text.wdg_get_int_status
+                0x00000000       0x14 ./_drivers_/src/f1c100s_timer.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_tvd.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_tvd.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_out_buf
+                0x00000000       0x20 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_out_size
+                0x00000000       0x38 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_mode
+                0x00000000      0x360 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_get_out_size
+                0x00000000       0x1c ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_out_fmt
+                0x00000000       0x20 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_bluescreen_mode
+                0x00000000       0x1c ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_set_ch
+                0x00000000       0x20 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_init
+                0x00000000       0x7c ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_autoset
+                0x00000000        0x8 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_get_state
+                0x00000000       0x10 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_get_input_mode
+                0x00000000        0x8 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_enable
+                0x00000000       0x18 ./_drivers_/src/f1c100s_tvd.o
+ .text.tvd_disable
+                0x00000000       0x18 ./_drivers_/src/f1c100s_tvd.o
+ .bss.tvd       0x00000000        0x6 ./_drivers_/src/f1c100s_tvd.o
+ .debug_info    0x00000000     0x1067 ./_drivers_/src/f1c100s_tvd.o
+ .debug_abbrev  0x00000000      0x32d ./_drivers_/src/f1c100s_tvd.o
+ .debug_loc     0x00000000      0x167 ./_drivers_/src/f1c100s_tvd.o
+ .debug_aranges
+                0x00000000       0x80 ./_drivers_/src/f1c100s_tvd.o
+ .debug_ranges  0x00000000       0x70 ./_drivers_/src/f1c100s_tvd.o
+ .debug_line    0x00000000      0x369 ./_drivers_/src/f1c100s_tvd.o
+ .debug_str     0x00000000      0xeb5 ./_drivers_/src/f1c100s_tvd.o
+ .comment       0x00000000       0x7f ./_drivers_/src/f1c100s_tvd.o
+ .debug_frame   0x00000000      0x100 ./_drivers_/src/f1c100s_tvd.o
+ .ARM.attributes
+                0x00000000       0x32 ./_drivers_/src/f1c100s_tvd.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_tve.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_tve.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_tve.o
+ .text.tve_init
+                0x00000000      0x1fc ./_drivers_/src/f1c100s_tve.o
+ .text.tve_disable
+                0x00000000       0x24 ./_drivers_/src/f1c100s_tve.o
+ .text          0x00000000        0x0 ./_drivers_/src/f1c100s_uart.o
+ .data          0x00000000        0x0 ./_drivers_/src/f1c100s_uart.o
+ .bss           0x00000000        0x0 ./_drivers_/src/f1c100s_uart.o
+ .text.uart_set_parity
+                0x00000000       0x14 ./_drivers_/src/f1c100s_uart.o
+ .text.uart_set_data_bits
+                0x00000000       0x14 ./_drivers_/src/f1c100s_uart.o
+ .text.uart_get_rx
+                0x00000000        0xc ./_drivers_/src/f1c100s_uart.o
+ .text.uart_get_int_id
+                0x00000000        0xc ./_drivers_/src/f1c100s_uart.o
+ .text          0x00000000       0x64 ./_arm926_/src/cache-v5.o
+ .data          0x00000000        0x0 ./_arm926_/src/cache-v5.o
+ .bss           0x00000000        0x0 ./_arm926_/src/cache-v5.o
+ .debug_line    0x00000000       0x60 ./_arm926_/src/cache-v5.o
+ .debug_info    0x00000000       0x26 ./_arm926_/src/cache-v5.o
+ .debug_abbrev  0x00000000       0x14 ./_arm926_/src/cache-v5.o
+ .debug_aranges
+                0x00000000       0x20 ./_arm926_/src/cache-v5.o
+ .debug_str     0x00000000       0x48 ./_arm926_/src/cache-v5.o
+ .ARM.attributes
+                0x00000000       0x22 ./_arm926_/src/cache-v5.o
+ .data          0x00000000        0x0 ./_arm926_/src/start.o
+ .bss           0x00000000        0x0 ./_arm926_/src/start.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000      0x424 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x49c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x144 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x5c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x16c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+ .text          0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x00000000       0x44 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x148 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000      0x450 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x80 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x80000000         0x03ffc000
+mmu              0x83ffc000         0x00004000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/display.o
+LOAD ./src/exception.o
+LOAD ./src/lcd.o
+LOAD ./src/lcd_font.o
+LOAD ./src/lcd_image.o
+LOAD ./src/main.o
+LOAD ./src/spi_flash.o
+LOAD ./src/system.o
+LOAD ./_lib_/src/printf.o
+LOAD ./_lib_/src/syscalls.o
+LOAD ./_drivers_/src/f1c100s_clock.o
+LOAD ./_drivers_/src/f1c100s_de.o
+LOAD ./_drivers_/src/f1c100s_gpio.o
+LOAD ./_drivers_/src/f1c100s_intc.o
+LOAD ./_drivers_/src/f1c100s_pwm.o
+LOAD ./_drivers_/src/f1c100s_sdc.o
+LOAD ./_drivers_/src/f1c100s_timer.o
+LOAD ./_drivers_/src/f1c100s_tvd.o
+LOAD ./_drivers_/src/f1c100s_tve.o
+LOAD ./_drivers_/src/f1c100s_uart.o
+LOAD ./_arm926_/src/cache-v5.o
+LOAD ./_arm926_/src/start.o
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libm.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc.a
+END GROUP
+                0x00010000                STACK_UND_SIZE = 0x10000
+                0x00010000                STACK_ABT_SIZE = 0x10000
+                0x00010000                STACK_IRQ_SIZE = 0x10000
+                0x00010000                STACK_FIQ_SIZE = 0x10000
+                0x00040000                STACK_SVC_SIZE = 0x40000
+                0x00800000                HEAP_SIZE = 0x800000
+
+.text           0x80000000     0x3458
+                0x80000000                PROVIDE (__image_start, .)
+                [!provide]                PROVIDE (__text_start, .)
+ ./_arm926_/src/start.o(.text)
+ .text          0x80000000      0x2fc ./_arm926_/src/start.o
+                0x80000018                _start
+ *(.text*)
+ .text.display_init
+                0x800002fc      0x120 ./src/display.o
+                0x800002fc                display_init
+ .text.show_regs
+                0x8000041c       0x78 ./src/exception.o
+ .text._undefined_instruction_
+                0x80000494       0x20 ./src/exception.o
+                0x80000494                _undefined_instruction_
+ .text._software_interrupt_
+                0x800004b4        0xc ./src/exception.o
+                0x800004b4                _software_interrupt_
+ .text._prefetch_abort_
+                0x800004c0        0x8 ./src/exception.o
+                0x800004c0                _prefetch_abort_
+ .text._data_abort_
+                0x800004c8       0x20 ./src/exception.o
+                0x800004c8                _data_abort_
+ .text.LCD_Fill
+                0x800004e8       0x64 ./src/lcd.o
+                0x800004e8                LCD_Fill
+ .text.LCD_Init
+                0x8000054c       0x90 ./src/lcd.o
+                0x8000054c                LCD_Init
+ .text.timer_init
+                0x800005dc       0x30 ./src/main.o
+                0x800005dc                timer_init
+ .text.delay    0x8000060c       0x44 ./src/main.o
+                0x8000060c                delay
+ .text.startup.main
+                0x80000650      0x184 ./src/main.o
+                0x80000650                main
+ .text.system_init
+                0x800007d4      0x238 ./src/system.o
+                0x800007d4                system_init
+ .text._putchar
+                0x80000a0c       0x2c ./src/system.o
+                0x80000a0c                _putchar
+ .text._close   0x80000a38        0x8 ./_lib_/src/syscalls.o
+                0x80000a38                _close
+ .text._fstat   0x80000a40        0x8 ./_lib_/src/syscalls.o
+                0x80000a40                _fstat
+ .text._isatty  0x80000a48        0x8 ./_lib_/src/syscalls.o
+                0x80000a48                _isatty
+ .text._lseek   0x80000a50        0x8 ./_lib_/src/syscalls.o
+                0x80000a50                _lseek
+ .text._sbrk_r  0x80000a58       0x88 ./_lib_/src/syscalls.o
+                0x80000a58                _sbrk_r
+ .text._read    0x80000ae0        0x8 ./_lib_/src/syscalls.o
+                0x80000ae0                _read
+ .text._write   0x80000ae8       0x48 ./_lib_/src/syscalls.o
+                0x80000ae8                _write
+ .text.clk_pll_enable
+                0x80000b30       0x18 ./_drivers_/src/f1c100s_clock.o
+                0x80000b30                clk_pll_enable
+ .text.clk_pll_is_locked
+                0x80000b48       0x18 ./_drivers_/src/f1c100s_clock.o
+                0x80000b48                clk_pll_is_locked
+ .text.clk_pll_init
+                0x80000b60      0x204 ./_drivers_/src/f1c100s_clock.o
+                0x80000b60                clk_pll_init
+ .text.clk_pll_get_freq
+                0x80000d64      0x128 ./_drivers_/src/f1c100s_clock.o
+                0x80000d64                clk_pll_get_freq
+ .text.clk_enable
+                0x80000e8c       0x1c ./_drivers_/src/f1c100s_clock.o
+                0x80000e8c                clk_enable
+ .text.clk_disable
+                0x80000ea8       0x1c ./_drivers_/src/f1c100s_clock.o
+                0x80000ea8                clk_disable
+ .text.clk_cpu_config
+                0x80000ec4       0x1c ./_drivers_/src/f1c100s_clock.o
+                0x80000ec4                clk_cpu_config
+ .text.clk_cpu_get_freq
+                0x80000ee0       0x4c ./_drivers_/src/f1c100s_clock.o
+                0x80000ee0                clk_cpu_get_freq
+ .text.clk_hclk_config
+                0x80000f2c       0x28 ./_drivers_/src/f1c100s_clock.o
+                0x80000f2c                clk_hclk_config
+ .text.clk_ahb_config
+                0x80000f54       0x88 ./_drivers_/src/f1c100s_clock.o
+                0x80000f54                clk_ahb_config
+ .text.clk_ahb_get_freq
+                0x80000fdc       0x88 ./_drivers_/src/f1c100s_clock.o
+                0x80000fdc                clk_ahb_get_freq
+ .text.clk_apb_config
+                0x80001064       0x1c ./_drivers_/src/f1c100s_clock.o
+                0x80001064                clk_apb_config
+ .text.clk_apb_get_freq
+                0x80001080       0x4c ./_drivers_/src/f1c100s_clock.o
+                0x80001080                clk_apb_get_freq
+ .text.clk_de_config
+                0x800010cc       0x34 ./_drivers_/src/f1c100s_clock.o
+                0x800010cc                clk_de_config
+ .text.clk_tcon_config
+                0x80001100       0x1c ./_drivers_/src/f1c100s_clock.o
+                0x80001100                clk_tcon_config
+ .text.clk_reset_set
+                0x8000111c        0x4 ./_drivers_/src/f1c100s_clock.o
+                0x8000111c                clk_reset_set
+ .text.clk_reset_clear
+                0x80001120        0x4 ./_drivers_/src/f1c100s_clock.o
+                0x80001120                clk_reset_clear
+ .text.defe_clk_enable
+                0x80001124       0x2c ./_drivers_/src/f1c100s_de.o
+ .text.debe_clk_enable
+                0x80001150       0x2c ./_drivers_/src/f1c100s_de.o
+ .text.tcon_clk_enable
+                0x8000117c       0x20 ./_drivers_/src/f1c100s_de.o
+ .text.debe_update_linewidth.part.0
+                0x8000119c       0x34 ./_drivers_/src/f1c100s_de.o
+ .text.debe_set_bg_color
+                0x800011d0       0x10 ./_drivers_/src/f1c100s_de.o
+                0x800011d0                debe_set_bg_color
+ .text.debe_layer_enable
+                0x800011e0       0x20 ./_drivers_/src/f1c100s_de.o
+                0x800011e0                debe_layer_enable
+ .text.debe_layer_init
+                0x80001200       0x5c ./_drivers_/src/f1c100s_de.o
+                0x80001200                debe_layer_init
+ .text.debe_layer_set_mode
+                0x8000125c       0x98 ./_drivers_/src/f1c100s_de.o
+                0x8000125c                debe_layer_set_mode
+ .text.debe_init
+                0x800012f4       0x90 ./_drivers_/src/f1c100s_de.o
+ .text.debe_layer_set_addr
+                0x80001384       0x20 ./_drivers_/src/f1c100s_de.o
+                0x80001384                debe_layer_set_addr
+ .text.de_enable
+                0x800013a4       0x68 ./_drivers_/src/f1c100s_de.o
+                0x800013a4                de_enable
+ .text.de_lcd_init
+                0x8000140c      0x244 ./_drivers_/src/f1c100s_de.o
+                0x8000140c                de_lcd_init
+ .text.debe_load
+                0x80001650       0x10 ./_drivers_/src/f1c100s_de.o
+                0x80001650                debe_load
+ .text.gpio_pin_init
+                0x80001660       0x78 ./_drivers_/src/f1c100s_gpio.o
+                0x80001660                gpio_pin_init
+ .text.gpio_init
+                0x800016d8       0x54 ./_drivers_/src/f1c100s_gpio.o
+                0x800016d8                gpio_init
+ .text.gpio_pin_set
+                0x8000172c       0x14 ./_drivers_/src/f1c100s_gpio.o
+                0x8000172c                gpio_pin_set
+ .text.gpio_pin_clear
+                0x80001740       0x14 ./_drivers_/src/f1c100s_gpio.o
+                0x80001740                gpio_pin_clear
+ .text.intc_disable_irq
+                0x80001754       0x30 ./_drivers_/src/f1c100s_intc.o
+                0x80001754                intc_disable_irq
+ .text.intc_init
+                0x80001784       0x34 ./_drivers_/src/f1c100s_intc.o
+                0x80001784                intc_init
+ .text.irq_handler_global
+                0x800017b8       0x30 ./_drivers_/src/f1c100s_intc.o
+                0x800017b8                irq_handler_global
+ .text.pwm_set_period
+                0x800017e8       0x28 ./_drivers_/src/f1c100s_pwm.o
+                0x800017e8                pwm_set_period
+ .text.pwm_set_pulse_len
+                0x80001810       0x28 ./_drivers_/src/f1c100s_pwm.o
+                0x80001810                pwm_set_pulse_len
+ .text.pwm_enable
+                0x80001838       0x34 ./_drivers_/src/f1c100s_pwm.o
+                0x80001838                pwm_enable
+ .text.pwm_disable
+                0x8000186c       0x34 ./_drivers_/src/f1c100s_pwm.o
+                0x8000186c                pwm_disable
+ .text.pwm_init
+                0x800018a0       0x48 ./_drivers_/src/f1c100s_pwm.o
+                0x800018a0                pwm_init
+ .text.tim_init
+                0x800018e8       0x24 ./_drivers_/src/f1c100s_timer.o
+                0x800018e8                tim_init
+ .text.tim_set_period
+                0x8000190c       0x14 ./_drivers_/src/f1c100s_timer.o
+                0x8000190c                tim_set_period
+ .text.tim_set_cnt
+                0x80001920       0x14 ./_drivers_/src/f1c100s_timer.o
+                0x80001920                tim_set_cnt
+ .text.tim_start
+                0x80001934       0x20 ./_drivers_/src/f1c100s_timer.o
+                0x80001934                tim_start
+ .text.tim_get_int_status
+                0x80001954       0x14 ./_drivers_/src/f1c100s_timer.o
+                0x80001954                tim_get_int_status
+ .text.tim_clear_irq
+                0x80001968       0x18 ./_drivers_/src/f1c100s_timer.o
+                0x80001968                tim_clear_irq
+ .text.tve_enable
+                0x80001980       0x24 ./_drivers_/src/f1c100s_tve.o
+                0x80001980                tve_enable
+ .text.uart_set_baudrate
+                0x800019a4       0x4c ./_drivers_/src/f1c100s_uart.o
+                0x800019a4                uart_set_baudrate
+ .text.uart_init
+                0x800019f0       0x34 ./_drivers_/src/f1c100s_uart.o
+                0x800019f0                uart_init
+ .text.uart_tx  0x80001a24        0x8 ./_drivers_/src/f1c100s_uart.o
+                0x80001a24                uart_tx
+ .text.uart_get_status
+                0x80001a2c        0xc ./_drivers_/src/f1c100s_uart.o
+                0x80001a2c                uart_get_status
+ .text          0x80001a38      0x114 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+                0x80001a38                __aeabi_uidiv
+                0x80001a38                __udivsi3
+                0x80001b2c                __aeabi_uidivmod
+ .text          0x80001b4c      0x148 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+                0x80001b4c                __divsi3
+                0x80001b4c                __aeabi_idiv
+                0x80001c74                __aeabi_idivmod
+ .text          0x80001c94        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+                0x80001c94                __aeabi_idiv0
+                0x80001c94                __aeabi_ldiv0
+ .text.memset   0x80001c98       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+                0x80001c98                memset
+ .text.printf   0x80001cb0       0x54 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+                0x80001cb0                iprintf
+                0x80001cb0                printf
+ .text          0x80001d04        0xe c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+                0x80001d04                strlen
+ *fill*         0x80001d12        0x2 
+ .text.std      0x80001d14       0x7c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x80001d90       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80001d90                _cleanup_r
+ .text.__sfmoreglue
+                0x80001da8       0x48 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80001da8                __sfmoreglue
+ .text.__sinit  0x80001df0       0xa4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80001df0                __sinit
+ .text.__sfp    0x80001e94       0xd8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80001e94                __sfp
+ .text._fwalk_reent
+                0x80001f6c       0x70 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+                0x80001f6c                _fwalk_reent
+ .text._free_r  0x80001fdc      0x114 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+                0x80001fdc                _free_r
+ .text._malloc_r
+                0x800020f0      0x138 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                0x800020f0                _malloc_r
+ .text.__sfputc_r
+                0x80002228       0x68 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x80002290       0x40 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x80002290                __sfputs_r
+ .text._vfprintf_r
+                0x800022d0      0x374 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x800022d0                _vfprintf_r
+                0x800022d0                _vfiprintf_r
+ .text._printf_common
+                0x80002644      0x174 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x80002644                _printf_common
+ .text._printf_i
+                0x800027b8      0x394 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x800027b8                _printf_i
+ .text.__sread  0x80002b4c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                0x80002b4c                __sread
+ .text.__swrite
+                0x80002b80       0x54 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                0x80002b80                __swrite
+ .text.__sseek  0x80002bd4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                0x80002bd4                __sseek
+ .text.__sclose
+                0x80002c08       0x14 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                0x80002c08                __sclose
+ .text.__swbuf_r
+                0x80002c1c      0x12c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                0x80002c1c                __swbuf_r
+ .text._write_r
+                0x80002d48       0x44 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+                0x80002d48                _write_r
+ .text.__swsetup_r
+                0x80002d8c      0x170 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                0x80002d8c                __swsetup_r
+ .text._close_r
+                0x80002efc       0x3c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+                0x80002efc                _close_r
+ .text.__sflush_r
+                0x80002f38      0x1e8 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                0x80002f38                __sflush_r
+ .text._fflush_r
+                0x80003120       0x90 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                0x80003120                _fflush_r
+ .text._lseek_r
+                0x800031b0       0x44 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+                0x800031b0                _lseek_r
+ .text.__swhatbuf_r
+                0x800031f4       0x7c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+                0x800031f4                __swhatbuf_r
+ .text.__smakebuf_r
+                0x80003270       0xdc c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+                0x80003270                __smakebuf_r
+ .text.memchr   0x8000334c       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+                0x8000334c                memchr
+ .text.__malloc_lock
+                0x8000337c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+                0x8000337c                __malloc_lock
+ .text.__malloc_unlock
+                0x80003380        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+                0x80003380                __malloc_unlock
+ .text._read_r  0x80003384       0x44 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+                0x80003384                _read_r
+ .text._fstat_r
+                0x800033c8       0x40 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+                0x800033c8                _fstat_r
+ .text._isatty_r
+                0x80003408       0x3c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+                0x80003408                _isatty_r
+ *fill*         0x80003444        0x4 
+ .text._isatty_r.__stub
+                0x80003448        0xc linker stubs
+                [!provide]                PROVIDE (__text_end, .)
+
+.glue_7         0x80003458        0x0
+ .glue_7        0x80003458        0x0 linker stubs
+
+.glue_7t        0x80003458        0x0
+ .glue_7t       0x80003458        0x0 linker stubs
+
+.vfp11_veneer   0x80003458        0x0
+ .vfp11_veneer  0x80003458        0x0 linker stubs
+
+.v4_bx          0x80003458        0x0
+ .v4_bx         0x80003458        0x0 linker stubs
+
+.iplt           0x80003458        0x0
+ .iplt          0x80003458        0x0 ./src/display.o
+
+.rodata         0x80003458     0x2545
+                [!provide]                PROVIDE (__rodata_start, .)
+ *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.rodata*)))
+ .rodata.__sf_fake_stderr
+                0x80003458       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80003458                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x80003478       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80003478                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x80003498       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                0x80003498                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x800034b8        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                0x800034b8                _global_impure_ptr
+ .rodata.t_12x24_full
+                0x800034bc        0x8 ./src/lcd_font.o
+                0x800034bc                t_12x24_full
+ .rodata._data_abort_.str1.1
+                0x800034c4       0x15 ./src/exception.o
+ .rodata._printf_i.str1.1
+                0x800034d9       0x22 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata._sbrk_r.str1.1
+                0x800034fb        0xd ./_lib_/src/syscalls.o
+ .rodata._software_interrupt_.str1.1
+                0x80003508       0x19 ./src/exception.o
+ .rodata._undefined_instruction_.str1.1
+                0x80003521       0x19 ./src/exception.o
+ .rodata._vfprintf_r.str1.1
+                0x8000353a       0x11 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata.main.str1.1
+                0x8000354b        0xb ./src/main.o
+ .rodata.show_regs.str1.1
+                0x80003556       0x47 ./src/exception.o
+                                 0x4a (size before relaxing)
+ .rodata.t_12x24_full_data
+                0x8000359d     0x2400 ./src/lcd_font.o
+                0x8000359d                t_12x24_full_data
+                [!provide]                PROVIDE (__rodata_end, .)
+
+.rel.dyn        0x800059a0        0x0
+ .rel.iplt      0x800059a0        0x0 ./src/display.o
+
+.data           0x800059a0       0x68
+                0x800059a0                PROVIDE (__data_start, .)
+ *(.data*)
+ .data._impure_ptr
+                0x800059a0        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                0x800059a0                _impure_ptr
+ .data.impure_data
+                0x800059a4       0x60 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                0x80005a08                . = ALIGN (0x8)
+ *fill*         0x80005a04        0x4 
+                0x80005a08                PROVIDE (__data_end, .)
+                0x80005a08                PROVIDE (__image_end, __data_end)
+
+.igot.plt       0x80005a08        0x0
+ .igot.plt      0x80005a08        0x0 ./src/display.o
+
+.ARM.exidx      0x80005a08        0x0
+                [!provide]                PROVIDE (__exidx_start, .)
+ *(.ARM.exidx*)
+                [!provide]                PROVIDE (__exidx_end, .)
+
+.ARM.extab      0x80005a08        0x0
+                [!provide]                PROVIDE (__extab_start, .)
+ *(.ARM.extab*)
+                [!provide]                PROVIDE (__extab_end, .)
+
+.bss            0x80005a08   0x2580e4
+                0x80005a08                PROVIDE (__bss_start, .)
+ *(.bss*)
+ .bss.BGColor   0x80005a08        0x4 ./src/lcd.o
+                0x80005a08                BGColor
+ .bss.TextColor
+                0x80005a0c        0x4 ./src/lcd.o
+                0x80005a0c                TextColor
+ .bss._cur_brk  0x80005a10        0x4 ./_lib_/src/syscalls.o
+ .bss.de        0x80005a14       0x24 ./_drivers_/src/f1c100s_de.o
+ .bss.irq_handlers
+                0x80005a38       0xa4 ./_drivers_/src/f1c100s_intc.o
+ .bss.__malloc_free_list
+                0x80005adc        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                0x80005adc                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x80005ae0        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                0x80005ae0                __malloc_sbrk_start
+ *(.sbss*)
+ *(COMMON)
+ COMMON         0x80005ae4   0x258004 ./src/lcd.o
+                0x80005ae4                LCD_FB
+                0x8025dae4                Font
+ COMMON         0x8025dae8        0x4 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+                0x8025dae8                errno
+                0x8025daec                PROVIDE (__bss_end, .)
+
+.heap           0x8025daf0   0x800000
+                0x8025daf0                PROVIDE (__heap_start, .)
+                0x80a5daf0                . = (. + HEAP_SIZE)
+ *fill*         0x8025daf0   0x800000 
+                0x80a5daf0                . = ALIGN (0x8)
+                0x80a5daf0                PROVIDE (__heap_end, .)
+
+.stack          0x80a5daf0    0x80000
+                [!provide]                PROVIDE (__stack_start, .)
+                [!provide]                PROVIDE (__stack_und_start, .)
+                0x80a6daf0                . = (. + STACK_UND_SIZE)
+ *fill*         0x80a5daf0    0x10000 
+                0x80a6daf0                PROVIDE (__stack_und_end, .)
+                0x80a6daf0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__stack_abt_start, .)
+                0x80a7daf0                . = (. + STACK_ABT_SIZE)
+ *fill*         0x80a6daf0    0x10000 
+                0x80a7daf0                PROVIDE (__stack_abt_end, .)
+                0x80a7daf0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__stack_irq_start, .)
+                0x80a8daf0                . = (. + STACK_IRQ_SIZE)
+ *fill*         0x80a7daf0    0x10000 
+                0x80a8daf0                PROVIDE (__stack_irq_end, .)
+                0x80a8daf0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__stack_fiq_start, .)
+                0x80a9daf0                . = (. + STACK_FIQ_SIZE)
+ *fill*         0x80a8daf0    0x10000 
+                0x80a9daf0                PROVIDE (__stack_fiq_end, .)
+                0x80a9daf0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__stack_svc_start, .)
+                0x80addaf0                . = (. + STACK_SVC_SIZE)
+ *fill*         0x80a9daf0    0x40000 
+                0x80addaf0                PROVIDE (__stack_svc_end, .)
+                0x80addaf0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__stack_end, .)
+
+.mmu_tbl        0x83ffc000     0x4000
+                0x83ffc000                . = ALIGN (0x8)
+ *(.mmu_tbl)
+ .mmu_tbl       0x83ffc000     0x4000 ./src/system.o
+                0x83ffc000                mmu_l1_tbl
+OUTPUT(template.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xa2a3
+ .debug_info    0x00000000      0xde2 ./src/display.o
+ .debug_info    0x00000de2      0xa91 ./src/exception.o
+ .debug_info    0x00001873      0xfe8 ./src/lcd.o
+ .debug_info    0x0000285b      0x203 ./src/lcd_font.o
+ .debug_info    0x00002a5e      0xf14 ./src/main.o
+ .debug_info    0x00003972      0xafe ./src/system.o
+ .debug_info    0x00004470      0xe1b ./_lib_/src/syscalls.o
+ .debug_info    0x0000528b      0xc4d ./_drivers_/src/f1c100s_clock.o
+ .debug_info    0x00005ed8     0x1aa5 ./_drivers_/src/f1c100s_de.o
+ .debug_info    0x0000797d      0x65f ./_drivers_/src/f1c100s_gpio.o
+ .debug_info    0x00007fdc      0xb8c ./_drivers_/src/f1c100s_intc.o
+ .debug_info    0x00008b68      0x2bc ./_drivers_/src/f1c100s_pwm.o
+ .debug_info    0x00008e24      0x4d3 ./_drivers_/src/f1c100s_timer.o
+ .debug_info    0x000092f7      0xbef ./_drivers_/src/f1c100s_tve.o
+ .debug_info    0x00009ee6      0x397 ./_drivers_/src/f1c100s_uart.o
+ .debug_info    0x0000a27d       0x26 ./_arm926_/src/start.o
+
+.debug_abbrev   0x00000000     0x2174
+ .debug_abbrev  0x00000000      0x287 ./src/display.o
+ .debug_abbrev  0x00000287      0x22f ./src/exception.o
+ .debug_abbrev  0x000004b6      0x376 ./src/lcd.o
+ .debug_abbrev  0x0000082c       0xbe ./src/lcd_font.o
+ .debug_abbrev  0x000008ea      0x2b5 ./src/main.o
+ .debug_abbrev  0x00000b9f      0x1fb ./src/system.o
+ .debug_abbrev  0x00000d9a      0x302 ./_lib_/src/syscalls.o
+ .debug_abbrev  0x0000109c      0x2e6 ./_drivers_/src/f1c100s_clock.o
+ .debug_abbrev  0x00001382      0x465 ./_drivers_/src/f1c100s_de.o
+ .debug_abbrev  0x000017e7      0x135 ./_drivers_/src/f1c100s_gpio.o
+ .debug_abbrev  0x0000191c      0x2ac ./_drivers_/src/f1c100s_intc.o
+ .debug_abbrev  0x00001bc8       0xfd ./_drivers_/src/f1c100s_pwm.o
+ .debug_abbrev  0x00001cc5      0x12b ./_drivers_/src/f1c100s_timer.o
+ .debug_abbrev  0x00001df0      0x242 ./_drivers_/src/f1c100s_tve.o
+ .debug_abbrev  0x00002032      0x12e ./_drivers_/src/f1c100s_uart.o
+ .debug_abbrev  0x00002160       0x14 ./_arm926_/src/start.o
+
+.debug_loc      0x00000000     0x227c
+ .debug_loc     0x00000000       0x52 ./src/display.o
+ .debug_loc     0x00000052       0xb5 ./src/exception.o
+ .debug_loc     0x00000107      0x327 ./src/lcd.o
+ .debug_loc     0x0000042e       0x3d ./src/main.o
+ .debug_loc     0x0000046b      0x309 ./src/system.o
+ .debug_loc     0x00000774      0x1e0 ./_lib_/src/syscalls.o
+ .debug_loc     0x00000954      0xaa1 ./_drivers_/src/f1c100s_clock.o
+ .debug_loc     0x000013f5      0x5cc ./_drivers_/src/f1c100s_de.o
+ .debug_loc     0x000019c1      0x376 ./_drivers_/src/f1c100s_gpio.o
+ .debug_loc     0x00001d37      0x116 ./_drivers_/src/f1c100s_intc.o
+ .debug_loc     0x00001e4d      0x159 ./_drivers_/src/f1c100s_pwm.o
+ .debug_loc     0x00001fa6      0x108 ./_drivers_/src/f1c100s_timer.o
+ .debug_loc     0x000020ae       0x42 ./_drivers_/src/f1c100s_tve.o
+ .debug_loc     0x000020f0      0x18c ./_drivers_/src/f1c100s_uart.o
+
+.debug_aranges  0x00000000      0x570
+ .debug_aranges
+                0x00000000       0x28 ./src/display.o
+ .debug_aranges
+                0x00000028       0x38 ./src/exception.o
+ .debug_aranges
+                0x00000060       0x68 ./src/lcd.o
+ .debug_aranges
+                0x000000c8       0x18 ./src/lcd_font.o
+ .debug_aranges
+                0x000000e0       0x30 ./src/main.o
+ .debug_aranges
+                0x00000110       0x28 ./src/system.o
+ .debug_aranges
+                0x00000138       0x68 ./_lib_/src/syscalls.o
+ .debug_aranges
+                0x000001a0       0xb8 ./_drivers_/src/f1c100s_clock.o
+ .debug_aranges
+                0x00000258       0xc0 ./_drivers_/src/f1c100s_de.o
+ .debug_aranges
+                0x00000318       0x90 ./_drivers_/src/f1c100s_gpio.o
+ .debug_aranges
+                0x000003a8       0x48 ./_drivers_/src/f1c100s_intc.o
+ .debug_aranges
+                0x000003f0       0x48 ./_drivers_/src/f1c100s_pwm.o
+ .debug_aranges
+                0x00000438       0x90 ./_drivers_/src/f1c100s_timer.o
+ .debug_aranges
+                0x000004c8       0x30 ./_drivers_/src/f1c100s_tve.o
+ .debug_aranges
+                0x000004f8       0x58 ./_drivers_/src/f1c100s_uart.o
+ .debug_aranges
+                0x00000550       0x20 ./_arm926_/src/start.o
+
+.debug_ranges   0x00000000      0x6a8
+ .debug_ranges  0x00000000       0x58 ./src/display.o
+ .debug_ranges  0x00000058       0x28 ./src/exception.o
+ .debug_ranges  0x00000080       0xe0 ./src/lcd.o
+ .debug_ranges  0x00000160       0x20 ./src/main.o
+ .debug_ranges  0x00000180       0x48 ./src/system.o
+ .debug_ranges  0x000001c8       0x88 ./_lib_/src/syscalls.o
+ .debug_ranges  0x00000250       0xd8 ./_drivers_/src/f1c100s_clock.o
+ .debug_ranges  0x00000328      0x158 ./_drivers_/src/f1c100s_de.o
+ .debug_ranges  0x00000480       0x80 ./_drivers_/src/f1c100s_gpio.o
+ .debug_ranges  0x00000500       0x58 ./_drivers_/src/f1c100s_intc.o
+ .debug_ranges  0x00000558       0x38 ./_drivers_/src/f1c100s_pwm.o
+ .debug_ranges  0x00000590       0xb0 ./_drivers_/src/f1c100s_timer.o
+ .debug_ranges  0x00000640       0x20 ./_drivers_/src/f1c100s_tve.o
+ .debug_ranges  0x00000660       0x48 ./_drivers_/src/f1c100s_uart.o
+
+.debug_line     0x00000000     0x2572
+ .debug_line    0x00000000      0x26c ./src/display.o
+ .debug_line    0x0000026c      0x24d ./src/exception.o
+ .debug_line    0x000004b9      0x343 ./src/lcd.o
+ .debug_line    0x000007fc       0xce ./src/lcd_font.o
+ .debug_line    0x000008ca      0x2d9 ./src/main.o
+ .debug_line    0x00000ba3      0x1d8 ./src/system.o
+ .debug_line    0x00000d7b      0x310 ./_lib_/src/syscalls.o
+ .debug_line    0x0000108b      0x33b ./_drivers_/src/f1c100s_clock.o
+ .debug_line    0x000013c6      0x503 ./_drivers_/src/f1c100s_de.o
+ .debug_line    0x000018c9      0x218 ./_drivers_/src/f1c100s_gpio.o
+ .debug_line    0x00001ae1      0x24d ./_drivers_/src/f1c100s_intc.o
+ .debug_line    0x00001d2e      0x15d ./_drivers_/src/f1c100s_pwm.o
+ .debug_line    0x00001e8b      0x20c ./_drivers_/src/f1c100s_timer.o
+ .debug_line    0x00002097      0x25a ./_drivers_/src/f1c100s_tve.o
+ .debug_line    0x000022f1      0x19c ./_drivers_/src/f1c100s_uart.o
+ .debug_line    0x0000248d       0xe5 ./_arm926_/src/start.o
+
+.debug_str      0x00000000     0x2d39
+ .debug_str     0x00000000      0x8f8 ./src/display.o
+                                0x9a8 (size before relaxing)
+ .debug_str     0x000008f8       0x8a ./src/exception.o
+                                0x61f (size before relaxing)
+ .debug_str     0x00000982      0x38f ./src/lcd.o
+                                0x9f2 (size before relaxing)
+ .debug_str     0x00000d11       0x5a ./src/lcd_font.o
+                                0x281 (size before relaxing)
+ .debug_str     0x00000d6b      0x143 ./src/main.o
+                                0x8e1 (size before relaxing)
+ .debug_str     0x00000eae      0x666 ./src/system.o
+                                0x951 (size before relaxing)
+ .debug_str     0x00001514      0x1e9 ./_lib_/src/syscalls.o
+                                0x7f3 (size before relaxing)
+ .debug_str     0x000016fd      0x26f ./_drivers_/src/f1c100s_clock.o
+                                0x872 (size before relaxing)
+ .debug_str     0x0000196c      0x6e8 ./_drivers_/src/f1c100s_de.o
+                               0x1392 (size before relaxing)
+ .debug_str     0x00002054      0x317 ./_drivers_/src/f1c100s_gpio.o
+                                0x5dd (size before relaxing)
+ .debug_str     0x0000236b      0x2d9 ./_drivers_/src/f1c100s_intc.o
+                                0x883 (size before relaxing)
+ .debug_str     0x00002644       0x82 ./_drivers_/src/f1c100s_pwm.o
+                                0x348 (size before relaxing)
+ .debug_str     0x000026c6      0x250 ./_drivers_/src/f1c100s_timer.o
+                                0x4ef (size before relaxing)
+ .debug_str     0x00002916      0x1d2 ./_drivers_/src/f1c100s_tve.o
+                                0xaf3 (size before relaxing)
+ .debug_str     0x00002ae8      0x22a ./_drivers_/src/f1c100s_uart.o
+                                0x422 (size before relaxing)
+ .debug_str     0x00002d12       0x27 ./_arm926_/src/start.o
+                                 0x45 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e ./src/display.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f ./src/exception.o
+ .comment       0x0000007e       0x7f ./src/lcd.o
+ .comment       0x0000007e       0x7f ./src/lcd_font.o
+ .comment       0x0000007e       0x7f ./src/main.o
+ .comment       0x0000007e       0x7f ./src/system.o
+ .comment       0x0000007e       0x7f ./_lib_/src/syscalls.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_clock.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_de.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_gpio.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_intc.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_pwm.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_timer.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_tve.o
+ .comment       0x0000007e       0x7f ./_drivers_/src/f1c100s_uart.o
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x32 ./src/display.o
+ .ARM.attributes
+                0x00000032       0x32 ./src/exception.o
+ .ARM.attributes
+                0x00000064       0x32 ./src/lcd.o
+ .ARM.attributes
+                0x00000096       0x32 ./src/lcd_font.o
+ .ARM.attributes
+                0x000000c8       0x32 ./src/main.o
+ .ARM.attributes
+                0x000000fa       0x32 ./src/system.o
+ .ARM.attributes
+                0x0000012c       0x32 ./_lib_/src/syscalls.o
+ .ARM.attributes
+                0x0000015e       0x32 ./_drivers_/src/f1c100s_clock.o
+ .ARM.attributes
+                0x00000190       0x32 ./_drivers_/src/f1c100s_de.o
+ .ARM.attributes
+                0x000001c2       0x32 ./_drivers_/src/f1c100s_gpio.o
+ .ARM.attributes
+                0x000001f4       0x32 ./_drivers_/src/f1c100s_intc.o
+ .ARM.attributes
+                0x00000226       0x32 ./_drivers_/src/f1c100s_pwm.o
+ .ARM.attributes
+                0x00000258       0x32 ./_drivers_/src/f1c100s_timer.o
+ .ARM.attributes
+                0x0000028a       0x32 ./_drivers_/src/f1c100s_tve.o
+ .ARM.attributes
+                0x000002bc       0x32 ./_drivers_/src/f1c100s_uart.o
+ .ARM.attributes
+                0x000002ee       0x22 ./_arm926_/src/start.o
+ .ARM.attributes
+                0x00000310       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000328       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000340       0x18 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000358       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000388       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x000003b8       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000003e8       0x1c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000404       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000434       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000464       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000494       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000004c4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000004f4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000524       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000554       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000584       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000005b4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000005e4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000614       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000644       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000674       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000006a4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000006d4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000704       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000734       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000764       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000794       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+
+.debug_frame    0x00000000     0x13a0
+ .debug_frame   0x00000000       0x44 ./src/display.o
+ .debug_frame   0x00000044       0x90 ./src/exception.o
+ .debug_frame   0x000000d4       0xe0 ./src/lcd.o
+ .debug_frame   0x000001b4       0x60 ./src/main.o
+ .debug_frame   0x00000214       0x4c ./src/system.o
+ .debug_frame   0x00000260       0xe0 ./_lib_/src/syscalls.o
+ .debug_frame   0x00000340      0x1c8 ./_drivers_/src/f1c100s_clock.o
+ .debug_frame   0x00000508      0x1fc ./_drivers_/src/f1c100s_de.o
+ .debug_frame   0x00000704      0x150 ./_drivers_/src/f1c100s_gpio.o
+ .debug_frame   0x00000854       0x7c ./_drivers_/src/f1c100s_intc.o
+ .debug_frame   0x000008d0       0x88 ./_drivers_/src/f1c100s_pwm.o
+ .debug_frame   0x00000958      0x100 ./_drivers_/src/f1c100s_timer.o
+ .debug_frame   0x00000a58       0x48 ./_drivers_/src/f1c100s_tve.o
+ .debug_frame   0x00000aa0       0xa4 ./_drivers_/src/f1c100s_uart.o
+ .debug_frame   0x00000b44       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000b64       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000b84       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000ba4       0x74 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000c18       0x64 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000c7c      0x164 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000de0       0x70 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000e50       0x38 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000e88       0x38 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000ec0       0xd0 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000f90       0x80 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001010       0x9c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x000010ac       0x4c c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x000010f8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000112c       0x38 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00001164       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x00001198       0x84 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000121c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00001250       0x64 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x000012b4       0x20 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000012d4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00001304       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00001338       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000136c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BGColor                                           ./src/lcd.o
+Font                                              ./src/lcd.o
+LCD_FB                                            ./src/lcd.o
+LCD_Fill                                          ./src/lcd.o
+                                                  ./src/main.o
+LCD_Init                                          ./src/lcd.o
+                                                  ./src/main.o
+LCD_SetBGColor                                    ./src/lcd.o
+LCD_SetFont                                       ./src/lcd.o
+LCD_SetPixel                                      ./src/lcd.o
+LCD_SetTextColor                                  ./src/lcd.o
+LCD_SetTextPos                                    ./src/lcd.o
+LCD_out                                           ./src/lcd.o
+LCD_print                                         ./src/lcd.o
+LCD_putchar                                       ./src/lcd.o
+TextColor                                         ./src/lcd.o
+Text_X                                            ./src/lcd.o
+Text_X_start                                      ./src/lcd.o
+Text_Y                                            ./src/lcd.o
+__adddf3                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_d2uiz                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dadd                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dcmpeq                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dcmpge                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dcmpgt                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dcmple                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dcmplt                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_ddiv                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_dmul                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_drsub                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_f2d                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_idiv                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  ./_drivers_/src/f1c100s_clock.o
+                                                  ./_lib_/src/printf.o
+__aeabi_idiv0                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+__aeabi_idivmod                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_l2d                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_dvmd_tls.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+                                                  ./_lib_/src/printf.o
+__aeabi_uidiv                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+                                                  ./_drivers_/src/f1c100s_uart.o
+                                                  ./_drivers_/src/f1c100s_de.o
+                                                  ./_drivers_/src/f1c100s_clock.o
+__aeabi_uidivmod                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  ./_drivers_/src/f1c100s_clock.o
+                                                  ./_lib_/src/printf.o
+__aeabi_ul2d                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+                                                  ./_lib_/src/printf.o
+__bss_end                                         ./_arm926_/src/start.o
+__bss_start                                       ./_arm926_/src/start.o
+__clzdi2                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+__clzsi2                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzsi2.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_clzdi2.o)
+__cmpdf2                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__data_end                                        ./_arm926_/src/start.o
+__data_start                                      ./_arm926_/src/start.o
+__divdf3                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+__divsi3                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_divsi3.o)
+__eqdf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__extendsfdf2                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixdfsi.o)
+__fixunsdfsi                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_fixunsdfsi.o)
+__floatdidf                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__fp_lock_all                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__fp_unlock_all                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__gedf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__gtdf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__heap_end                                        ./_lib_/src/syscalls.o
+__heap_start                                      ./_lib_/src/syscalls.o
+__image_end                                       ./_arm926_/src/start.o
+__image_start                                     ./_arm926_/src/start.o
+__ledf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__ltdf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__malloc_free_list                                c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-mlock.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+__muldf3                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_muldivdf3.o)
+__nedf2                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_cmpdf2.o)
+__sclose                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__seofread                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+__sf_fake_stderr                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+__sflush_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+__sfmoreglue                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sfp                                             c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_acquire                                c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_release                                c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sfputs_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+__sfvwrite_r                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+__sinit                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+__sinit_lock_acquire                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sinit_lock_release                              c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__smakebuf_r                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+__sprint_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+__sread                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__sseek                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__stack_abt_end                                   ./_arm926_/src/start.o
+__stack_fiq_end                                   ./_arm926_/src/start.o
+__stack_irq_end                                   ./_arm926_/src/start.o
+__stack_svc_end                                   ./_arm926_/src/start.o
+__stack_und_end                                   ./_arm926_/src/start.o
+__subdf3                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_arm_addsubdf3.o)
+__swbuf                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+__swbuf_r                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+__swhatbuf_r                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+__swrite                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+__swsetup_r                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+__udivmoddi4                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivmoddi4.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_aeabi_uldivmod.o)
+__udivsi3                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1\libgcc.a(_udivsi3.o)
+_cleanup                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_cleanup_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+_close                                            ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+_close_r                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+_data_abort_                                      ./src/exception.o
+_exit                                             ./_lib_/src/syscalls.o
+_fflush_r                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_free_r                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-freer.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+_fstat                                            ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+_fstat_r                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+_fwalk                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_fwalk_reent                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fwalk.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_getpid                                           ./_lib_/src/syscalls.o
+_global_impure_ptr                                c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_impure_ptr                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-impure.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wsetup.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-wbuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+_iprintf_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+_isatty                                           ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+_isatty_r                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+_kill                                             ./_lib_/src/syscalls.o
+_lseek                                            ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+_lseek_r                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+_malloc_r                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-makebuf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+_malloc_usable_size_r                             c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-msizer.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+_prefetch_abort_                                  ./src/exception.o
+_printf_common                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+_printf_float                                     c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_i                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_r                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+_putchar                                          ./src/system.o
+                                                  ./_lib_/src/syscalls.o
+                                                  ./_lib_/src/printf.o
+_read                                             ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+_read_r                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+_realloc_r                                        c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+_reclaim_reent                                    c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+_sbrk_r                                           ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-mallocr.o)
+_software_interrupt_                              ./src/exception.o
+_start                                            ./_arm926_/src/start.o
+_undefined_instruction_                           ./src/exception.o
+_vfiprintf_r                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+_vfprintf_r                                       c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+_write                                            ./_lib_/src/syscalls.o
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+_write_r                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-stdio.o)
+cleanup_glue                                      c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+clk_ahb_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_ahb_get_freq                                  ./_drivers_/src/f1c100s_clock.o
+clk_apb_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_apb_get_freq                                  ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_uart.o
+clk_cpu_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_cpu_get_freq                                  ./_drivers_/src/f1c100s_clock.o
+clk_de_config                                     ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_de.o
+clk_disable                                       ./_drivers_/src/f1c100s_clock.o
+clk_enable                                        ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_tvd.o
+                                                  ./_drivers_/src/f1c100s_de.o
+                                                  ./src/system.o
+                                                  ./src/spi_flash.o
+clk_hclk_config                                   ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_hclk_get_freq                                 ./_drivers_/src/f1c100s_clock.o
+clk_pll_disable                                   ./_drivers_/src/f1c100s_clock.o
+clk_pll_enable                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_pll_get_freq                                  ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_tvd.o
+                                                  ./_drivers_/src/f1c100s_de.o
+clk_pll_init                                      ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_pll_is_locked                                 ./_drivers_/src/f1c100s_clock.o
+                                                  ./src/system.o
+clk_reset_clear                                   ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_tvd.o
+                                                  ./_drivers_/src/f1c100s_de.o
+                                                  ./src/system.o
+                                                  ./src/spi_flash.o
+clk_reset_set                                     ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_de.o
+clk_sdc_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_sdc.o
+clk_tcon_config                                   ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_de.o
+clk_tvd_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_tvd.o
+clk_tve_config                                    ./_drivers_/src/f1c100s_clock.o
+                                                  ./_drivers_/src/f1c100s_tve.o
+clock_digits                                      ./src/lcd_font.o
+clock_digits_data                                 ./src/lcd_font.o
+clock_dots                                        ./src/lcd_font.o
+clock_dots_data                                   ./src/lcd_font.o
+de_diable                                         ./_drivers_/src/f1c100s_de.o
+de_enable                                         ./_drivers_/src/f1c100s_de.o
+de_lcd_init                                       ./_drivers_/src/f1c100s_de.o
+                                                  ./src/display.o
+de_tv_init                                        ./_drivers_/src/f1c100s_de.o
+debe_layer_disable                                ./_drivers_/src/f1c100s_de.o
+debe_layer_enable                                 ./_drivers_/src/f1c100s_de.o
+                                                  ./src/lcd.o
+debe_layer_init                                   ./_drivers_/src/f1c100s_de.o
+                                                  ./src/lcd.o
+debe_layer_set_addr                               ./_drivers_/src/f1c100s_de.o
+                                                  ./src/lcd.o
+debe_layer_set_alpha                              ./_drivers_/src/f1c100s_de.o
+debe_layer_set_mode                               ./_drivers_/src/f1c100s_de.o
+                                                  ./src/lcd.o
+debe_layer_set_pos                                ./_drivers_/src/f1c100s_de.o
+debe_layer_set_size                               ./_drivers_/src/f1c100s_de.o
+debe_load                                         ./_drivers_/src/f1c100s_de.o
+                                                  ./src/display.o
+debe_set_bg_color                                 ./_drivers_/src/f1c100s_de.o
+                                                  ./src/display.o
+debe_write_palette                                ./_drivers_/src/f1c100s_de.o
+defe_init_spl_422                                 ./_drivers_/src/f1c100s_de.o
+delay                                             ./src/main.o
+display_init                                      ./src/display.o
+                                                  ./src/lcd.o
+display_set_bl                                    ./src/display.o
+eint_debounce_config                              ./_drivers_/src/f1c100s_gpio.o
+eint_get_status                                   ./_drivers_/src/f1c100s_gpio.o
+eint_pin_clear_status                             ./_drivers_/src/f1c100s_gpio.o
+eint_pin_disable                                  ./_drivers_/src/f1c100s_gpio.o
+eint_pin_enable                                   ./_drivers_/src/f1c100s_gpio.o
+eint_pin_get_status                               ./_drivers_/src/f1c100s_gpio.o
+eint_pin_init                                     ./_drivers_/src/f1c100s_gpio.o
+errno                                             c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-reent.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-isattyr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fstatr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-readr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-lseekr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-closer.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-writer.o)
+                                                  ./_lib_/src/syscalls.o
+fctprintf                                         ./_lib_/src/printf.o
+fflush                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fflush.o)
+gpio_clear                                        ./_drivers_/src/f1c100s_gpio.o
+gpio_init                                         ./_drivers_/src/f1c100s_gpio.o
+                                                  ./src/system.o
+                                                  ./src/spi_flash.o
+gpio_pin_clear                                    ./_drivers_/src/f1c100s_gpio.o
+                                                  ./src/main.o
+gpio_pin_get                                      ./_drivers_/src/f1c100s_gpio.o
+gpio_pin_init                                     ./_drivers_/src/f1c100s_gpio.o
+                                                  ./src/main.o
+                                                  ./src/display.o
+gpio_pin_set                                      ./_drivers_/src/f1c100s_gpio.o
+                                                  ./src/main.o
+gpio_pin_toggle                                   ./_drivers_/src/f1c100s_gpio.o
+gpio_read                                         ./_drivers_/src/f1c100s_gpio.o
+gpio_set                                          ./_drivers_/src/f1c100s_gpio.o
+gpio_write                                        ./_drivers_/src/f1c100s_gpio.o
+intc_disable_irq                                  ./_drivers_/src/f1c100s_intc.o
+intc_enable_irq                                   ./_drivers_/src/f1c100s_intc.o
+intc_init                                         ./_drivers_/src/f1c100s_intc.o
+                                                  ./src/system.o
+intc_set_irq_handler                              ./_drivers_/src/f1c100s_intc.o
+intc_set_priority                                 ./_drivers_/src/f1c100s_intc.o
+iprintf                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+irq_handler_global                                ./_drivers_/src/f1c100s_intc.o
+                                                  ./_arm926_/src/start.o
+main                                              ./src/main.o
+                                                  ./_arm926_/src/start.o
+memchr                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memchr-stub.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+memcpy                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+                                                  ./_drivers_/src/f1c100s_de.o
+memmove                                           c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memmove.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-fvwrite.o)
+memset                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-memset.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-findfp.o)
+                                                  ./_arm926_/src/start.o
+                                                  ./_drivers_/src/f1c100s_intc.o
+mmu_l1_tbl                                        ./src/system.o
+printf                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-printf.o)
+                                                  ./src/main.o
+                                                  ./src/exception.o
+printf_                                           ./_lib_/src/printf.o
+pwm_disable                                       ./_drivers_/src/f1c100s_pwm.o
+pwm_enable                                        ./_drivers_/src/f1c100s_pwm.o
+                                                  ./src/display.o
+pwm_init                                          ./_drivers_/src/f1c100s_pwm.o
+                                                  ./src/display.o
+pwm_pulse_start                                   ./_drivers_/src/f1c100s_pwm.o
+pwm_set_period                                    ./_drivers_/src/f1c100s_pwm.o
+                                                  ./src/display.o
+pwm_set_pulse_len                                 ./_drivers_/src/f1c100s_pwm.o
+                                                  ./src/display.o
+sdc_reset                                         ./_drivers_/src/f1c100s_sdc.o
+sdc_set_bus_width                                 ./_drivers_/src/f1c100s_sdc.o
+sdc_set_clock                                     ./_drivers_/src/f1c100s_sdc.o
+sdc_transfer                                      ./_drivers_/src/f1c100s_sdc.o
+snprintf_                                         ./_lib_/src/printf.o
+spi_deselect                                      ./src/spi_flash.o
+spi_flash_erase_full                              ./src/spi_flash.o
+spi_flash_erase_sector                            ./src/spi_flash.o
+spi_flash_init                                    ./src/spi_flash.o
+spi_flash_read                                    ./src/spi_flash.o
+spi_flash_read_id                                 ./src/spi_flash.o
+spi_flash_wait_ready                              ./src/spi_flash.o
+spi_flash_write                                   ./src/spi_flash.o
+spi_flash_write_enable                            ./src/spi_flash.o
+spi_flash_write_sector                            ./src/spi_flash.o
+spi_select                                        ./src/spi_flash.o
+spi_write                                         ./src/spi_flash.o
+sprintf_                                          ./_lib_/src/printf.o
+strlen                                            c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-strlen.o)
+                                                  ./_lib_/src/syscalls.o
+sys_spi_flash_read                                ./src/spi_flash.o
+system_init                                       ./src/system.o
+                                                  ./src/main.o
+t_12x24_full                                      ./src/lcd_font.o
+                                                  ./src/lcd.o
+t_12x24_full_data                                 ./src/lcd_font.o
+t_16x22_digits                                    ./src/lcd_font.o
+t_16x22_digits_data                               ./src/lcd_font.o
+tim_clear_irq                                     ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_get_cnt                                       ./_drivers_/src/f1c100s_timer.o
+tim_get_int_status                                ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_init                                          ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_int_disable                                   ./_drivers_/src/f1c100s_timer.o
+tim_int_enable                                    ./_drivers_/src/f1c100s_timer.o
+tim_reload                                        ./_drivers_/src/f1c100s_timer.o
+tim_set_cnt                                       ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_set_period                                    ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_start                                         ./_drivers_/src/f1c100s_timer.o
+                                                  ./src/main.o
+tim_stop                                          ./_drivers_/src/f1c100s_timer.o
+timer_init                                        ./src/main.o
+tvd_autoset                                       ./_drivers_/src/f1c100s_tvd.o
+tvd_disable                                       ./_drivers_/src/f1c100s_tvd.o
+tvd_enable                                        ./_drivers_/src/f1c100s_tvd.o
+tvd_get_input_mode                                ./_drivers_/src/f1c100s_tvd.o
+tvd_get_out_size                                  ./_drivers_/src/f1c100s_tvd.o
+tvd_get_state                                     ./_drivers_/src/f1c100s_tvd.o
+tvd_init                                          ./_drivers_/src/f1c100s_tvd.o
+tvd_set_bluescreen_mode                           ./_drivers_/src/f1c100s_tvd.o
+tvd_set_ch                                        ./_drivers_/src/f1c100s_tvd.o
+tvd_set_mode                                      ./_drivers_/src/f1c100s_tvd.o
+tvd_set_out_buf                                   ./_drivers_/src/f1c100s_tvd.o
+tvd_set_out_fmt                                   ./_drivers_/src/f1c100s_tvd.o
+tvd_set_out_size                                  ./_drivers_/src/f1c100s_tvd.o
+tve_disable                                       ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_de.o
+tve_enable                                        ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_de.o
+tve_init                                          ./_drivers_/src/f1c100s_tve.o
+                                                  ./_drivers_/src/f1c100s_de.o
+uart_get_int_id                                   ./_drivers_/src/f1c100s_uart.o
+uart_get_rx                                       ./_drivers_/src/f1c100s_uart.o
+uart_get_status                                   ./_drivers_/src/f1c100s_uart.o
+                                                  ./src/system.o
+uart_init                                         ./_drivers_/src/f1c100s_uart.o
+                                                  ./src/system.o
+uart_set_baudrate                                 ./_drivers_/src/f1c100s_uart.o
+uart_set_data_bits                                ./_drivers_/src/f1c100s_uart.o
+uart_set_parity                                   ./_drivers_/src/f1c100s_uart.o
+uart_tx                                           ./_drivers_/src/f1c100s_uart.o
+                                                  ./src/system.o
+v5_cache_clean_range                              ./_arm926_/src/cache-v5.o
+v5_cache_flush_range                              ./_arm926_/src/cache-v5.o
+v5_cache_inv_range                                ./_arm926_/src/cache-v5.o
+vfiprintf                                         c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+vfprintf                                          c:/program files (x86)/gnu tools arm embedded/7 2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+vprintf_                                          ./_lib_/src/printf.o
+vsnprintf_                                        ./_lib_/src/printf.o
+wdg_disable                                       ./_drivers_/src/f1c100s_timer.o
+wdg_feed                                          ./_drivers_/src/f1c100s_timer.o
+wdg_get_int_status                                ./_drivers_/src/f1c100s_timer.o
+wdg_init                                          ./_drivers_/src/f1c100s_timer.o
